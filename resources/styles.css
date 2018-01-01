@@ -106,6 +106,7 @@ input, textarea {
 }
 
 button {
+    cursor: pointer;
     background-color: white;
     border: 1px solid black;
     transition: all 0.25s ease-in-out;
