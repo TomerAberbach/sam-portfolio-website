@@ -1,3 +1,2 @@
 # sam-portfolio-website
-
-This is a portfolio website I designed and coded for my friend Sam.
+A portfolio website for a Visual Arts Major with a Lens Based Art Specialization.
