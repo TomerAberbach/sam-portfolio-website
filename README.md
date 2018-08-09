@@ -14,4 +14,3 @@
 ## License
 
 Copyright © 2018 [Tomer Aberbach](https://github.com/TomerADev)
-
