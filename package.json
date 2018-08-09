@@ -1,0 +1,18 @@
+{
+  "name": "sam-portfolio-website",
+  "author": "Tomer Aberbach <tomeraberbach@gmail.com> (https://tomeraberba.ch)",
+  "scripts": {
+    "start": "gulp",
+    "clean": "gulp clean"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.0.2",
+    "cssnano": "^4.0.5",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-uglify-es": "^1.0.4"
+  }
+}

@@ -1,3 +1,17 @@
-# sam-portfolio-website
+# Sam Shaw Portfolio Website
 
-This is a portfolio website I designed and coded for my friend Sam.
+> A portfolio website for a **Visual Arts Major** with a **Lens Based Art Specialization**.
+
+## Author
+
+**Tomer Aberbach**
+
+* [Github](https://github.com/TomerADev)
+* [NPM](https://www.npmjs.com/~tomeraberbach)
+* [LinkedIn](https://www.linkedin.com/in/tomer-a)
+* [Website](https://tomeraberba.ch)
+
+## License
+
+Copyright © 2018 [Tomer Aberbach](https://github.com/TomerADev)
+
