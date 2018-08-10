@@ -6,11 +6,11 @@
 
 **Tomer Aberbach**
 
-* [Github](https://github.com/TomerADev)
+* [Github](https://github.com/TomerAberbach)
 * [NPM](https://www.npmjs.com/~tomeraberbach)
 * [LinkedIn](https://www.linkedin.com/in/tomer-a)
 * [Website](https://tomeraberba.ch)
 
 ## License
 
-Copyright © 2018 [Tomer Aberbach](https://github.com/TomerADev)
+Copyright © 2018 [Tomer Aberbach](https://github.com/TomerAberbach)
